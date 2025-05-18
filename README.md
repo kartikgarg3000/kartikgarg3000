@@ -29,6 +29,25 @@
 - ⚡ Fun fact: **I automate everything I do more than twice**
 
 ---
+## 💼 Professional Experience
+
+### 🚀 Full Stack Developer Intern
+[![Stratawiz Technologies](https://img.shields.io/badge/STRATAWIZ_TECHNOLOGIES-005571?style=for-the-badge)](https://stratawiz.com)  
+**📍 Remote** | **📅 6 Months**  
+
+✔️ Integrated WhatsApp API features enhancing platform communication  
+✔️ Optimized backend performance → **25% faster response times**  
+✔️ Achieved **90% accuracy** in bot message processing  
+✔️ Built scalable features using Node.js + AWS Lambda  
+
+**Tech Stack Used:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
 
 ## 🛠 Tech Stack
 
@@ -90,6 +109,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -133,6 +154,15 @@
 
 
 ---
+
+## 🏅 Achievements
+- **2 Patents Filed** with Intellectual Property India  
+  - Epilepsy speech transformation system (**25% accuracy boost**)  
+  - AI highway road analyzer (**30% maintenance efficiency**)  
+- **Departmental 3rd Best Project Award** at Chandigarh University  
+- **15+ Certifications** in advanced CS domains
+
+ ---
 
 ## 🤝 Let's Connect
 
