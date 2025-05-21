@@ -70,6 +70,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
 
 ---
 
@@ -145,12 +146,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
 
 **Highlights:**
 - Powered by Google's cutting-edge Gemini AI technology
 - Features advanced content analysis and summarization capabilities
 - Developed with responsive design for all devices
 - Integrated with Google's latest AI APIs for optimal performance
+- **Modern UI**: Built with shadcn/ui for accessible, customizable components (modals, forms, dark mode).
 
 
 ---
