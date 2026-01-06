@@ -135,3 +135,4 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
 </p>
+"Discipline today, success follows." 🚀
