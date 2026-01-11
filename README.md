@@ -5,7 +5,7 @@
 <grok-card data-id="818682" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-# Kartik Garg
+# Kartik Garg 
 
 ### Software Engineer | Full-Stack Developer  
 **React • Next.js • Node.js • TypeScript • AI Integration**
