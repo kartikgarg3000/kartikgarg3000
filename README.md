@@ -135,7 +135,7 @@ Clean architecture • Server Actions for secure processing • Production-ready
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-garg-a01027231/">
