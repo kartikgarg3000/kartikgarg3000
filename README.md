@@ -7,7 +7,7 @@
 
 # Kartik Garg  
 
-### Software Engineer | Full-Stack Developer  
+### Software Engineer | Full-Stack Developer   
 **React • Next.js • Node.js • TypeScript • AI Integration**
 
 <!-- Social & Metrics -->
