@@ -9,7 +9,7 @@
 
 ### Software Engineer | Full-Stack Developer   
 **React • Next.js • Node.js • TypeScript • AI Integration**
-
+ 
 <!-- Social & Metrics -->
 <p>
   <a href="https://www.linkedin.com/in/kartik-garg-a01027231/" target="_blank">
