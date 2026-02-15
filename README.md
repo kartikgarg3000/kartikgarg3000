@@ -2,7 +2,7 @@
 
 <!-- Header Visual -->
 
-<grok-card data-id="818682" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="818682" data-type="image_card"  data-arg-size="LARGE" ></grok-card> 
   
 
 # Kartik Garg  
