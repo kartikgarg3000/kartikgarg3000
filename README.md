@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Header Visual -->
-
-<grok-card data-id="818682" data-type="image_card"  data-arg-size="LARGE" ></grok-card> 
-  
+<img src="https://github.com/kartikgarg3000/kartikgarg3000/assets/123456789/abc123" alt="Header" width="100%" />  
 
 # Kartik Garg  
 
@@ -25,11 +23,6 @@
   <img src="https://img.shields.io/github/followers/kartikgarg3000?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<!-- Subtle tech accent -->
-
-<grok-card data-id="a0e16b" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
-
-
 ---
 
 ## 🚀 Professional Summary
@@ -45,6 +38,28 @@ Expertise in modern JavaScript ecosystems with a strong focus on performance, cl
 - DevOps: Vercel, Git, CI/CD, image optimization & performance tuning  
 
 Passionate about automation, maintainable code, and delivering measurable business value.
+
+---
+
+## 🌟 Featured Projects
+
+**MoltPulse – Real-time AI Agent Market Terminal**  
+[![Live](https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.molt-pulse.com)  
+[![Repo](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikgarg3000/MoltPulse)  
+
+Bloomberg for AI Agents: Tracks 500+ agents with Pulse Score, Market Movers, Fresh on Market (LIVE/NEW badges), real-time Volume 1000 metrics & sector filtering.
+
+**Summafy AI – PDF to Instagram Stories**  
+[![Live](https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://summafy-ai.vercel.app)  
+[![Repo](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikgarg3000/summafy-ai)  
+
+Processes 20MB+ PDFs in <2 seconds using Gemini 2.0 Flash + Next.js Server Actions. Clerk Auth + 500+ daily upload pipeline.
+
+**SR Group – Corporate Website + Sanity CMS**  
+[![Live](https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://sr-group-two.vercel.app)  
+[![Repo](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikgarg3000/sr-group-two) *(replace with your exact repo name if different)*  
+
+Production-ready Next.js site with Sanity Headless CMS for 50+ products. 40% faster page loads.
 
 ---
 
@@ -76,10 +91,6 @@ Passionate about automation, maintainable code, and delivering measurable busine
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
-
-<grok-card data-id="8b564f" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
-
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -96,18 +107,8 @@ Passionate about automation, maintainable code, and delivering measurable busine
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
-
----
-
-## 📌 Highlighted Project
-
-**Summafy – AI-Powered PDF Summarizer**  
-Full-stack SaaS application for intelligent PDF summarization (supports files up to 20MB)  
-
-**Tech:** Next.js 14 • TypeScript • PostgreSQL • Tailwind • Gemini AI + Server Actions • Clerk Auth • Vercel  
-
-Clean architecture • Server Actions for secure processing • Production-ready deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
 
 ---
 
@@ -124,14 +125,8 @@ Clean architecture • Server Actions for secure processing • Production-ready
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats-eight.vercel.app/api?username=kartikgarg3000&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> -->
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kartikgarg3000&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=kartikgarg3000&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<!-- Footer accent -->
-
-<grok-card data-id="643bd3" data-type="image_card"  data-arg-size="SMALL" ></grok-card>
-
 
 ---
 
