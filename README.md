@@ -57,7 +57,7 @@ Processes 20MB+ PDFs in <2 seconds using Gemini 2.0 Flash + Next.js Server Actio
 
 **SR Group – Corporate Website + Sanity CMS**  
 [![Live](https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://sr-group-two.vercel.app)  
-[![Repo](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikgarg3000/sr-group-two) *(replace with your exact repo name if different)*  
+[![Repo](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikgarg3000/SR-Group)
 
 Production-ready Next.js site with Sanity Headless CMS for 50+ products. 40% faster page loads.
 
