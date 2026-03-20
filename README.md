@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Visual -->
-<img src="https://github.com/kartikgarg3000/kartikgarg3000/assets/123456789/abc123" alt="Header" width="100%" />  
+<!-- <img src="https://github.com/kartikgarg3000/kartikgarg3000/assets/123456789/abc123" alt="Header" width="100%" />   -->
 
 # Kartik Garg  
 
@@ -125,7 +125,8 @@ Production-ready Next.js site with Sanity Headless CMS for 50+ products. 40% fas
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=kartikgarg3000&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikgarg3000&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" /> -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=kartikgarg3000&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
