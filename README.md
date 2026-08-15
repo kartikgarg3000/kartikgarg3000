@@ -2,7 +2,7 @@
 
 # Kartik Garg
 
-### Software Engineer
+### Software Engineer 
 
 **Java · Spring Boot · React · Next.js · TypeScript · PostgreSQL**
 
