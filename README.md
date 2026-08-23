@@ -4,7 +4,7 @@
 
 ### Software Engineer    
 
-**Java · Spring Boot · React · Next.js · TypeScript · PostgreSQL**
+**Java · Spring Boot · React · Next.js · TypeScript · PostgreSQL** 
 
 <p>
   <a href="https://www.linkedin.com/in/kartik-garg-a01027231/" target="_blank">
