@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kartik Garg    
+# Kartik Garg     
 
 ### Software Engineer    
 
